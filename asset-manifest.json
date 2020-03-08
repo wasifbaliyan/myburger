@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/myburger/static/css/main.f7253a78.chunk.css",
-    "main.js": "/myburger/static/js/main.833adeef.chunk.js",
-    "main.js.map": "/myburger/static/js/main.833adeef.chunk.js.map",
+    "main.js": "/myburger/static/js/main.1b5260dc.chunk.js",
+    "main.js.map": "/myburger/static/js/main.1b5260dc.chunk.js.map",
     "runtime-main.js": "/myburger/static/js/runtime-main.ec55d731.js",
     "runtime-main.js.map": "/myburger/static/js/runtime-main.ec55d731.js.map",
     "static/js/2.44d5fdf7.chunk.js": "/myburger/static/js/2.44d5fdf7.chunk.js",
     "static/js/2.44d5fdf7.chunk.js.map": "/myburger/static/js/2.44d5fdf7.chunk.js.map",
     "index.html": "/myburger/index.html",
-    "precache-manifest.290ddcb1c148389771d67a2004788821.js": "/myburger/precache-manifest.290ddcb1c148389771d67a2004788821.js",
+    "precache-manifest.a24dffd55d1580b924ace0992bbd86e0.js": "/myburger/precache-manifest.a24dffd55d1580b924ace0992bbd86e0.js",
     "service-worker.js": "/myburger/service-worker.js",
     "static/css/main.f7253a78.chunk.css.map": "/myburger/static/css/main.f7253a78.chunk.css.map",
     "static/js/2.44d5fdf7.chunk.js.LICENSE.txt": "/myburger/static/js/2.44d5fdf7.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ec55d731.js",
     "static/js/2.44d5fdf7.chunk.js",
     "static/css/main.f7253a78.chunk.css",
-    "static/js/main.833adeef.chunk.js"
+    "static/js/main.1b5260dc.chunk.js"
   ]
 }
